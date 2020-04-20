@@ -1,4 +1,4 @@
-Date,HosPt,PUI,Suspected,Lab_Neg,Confirmed,Death,Recovered,Pending,
+Date,HosPt,PUI,Suspected,Lab_Neg,Confirmed,Death,Recovered,Pending,Tested
 27-03-2020,372,370,2,334,8,0,0,30,
 28-03-2020,430,428,2,367,8,0,0,55,
 29-03-2020,476,474,2,403,10,0,0,63,
@@ -26,3 +26,4 @@ Date,HosPt,PUI,Suspected,Lab_Neg,Confirmed,Death,Recovered,Pending,
 18-04-2020,,1878,,,98,5,5,,4065
 19-04-2020,,1967,,,108,5,7,,4605
 20-04-2020,,1967,,,111,5,7,,4786
+20-04-2020,,2089,,,119,5,7,,4692
